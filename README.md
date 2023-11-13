@@ -20,3 +20,16 @@ python ./demo_only_test.py
 ```
 
 This work is built on top of S-VAE, as presented in [[1]](#citation)(http://arxiv.org/abs/1804.00891). 
+
+## Bibtex
+```
+@inproceedings{jing2021balanced,
+  title={Balanced open set domain adaptation via centroid alignment},
+  author={Jing, Mengmeng and Li, Jingjing and Zhu, Lei and Ding, Zhengming and Lu, Ke and Yang, Yang},
+  booktitle={Proceedings of the AAAI conference on artificial intelligence},
+  volume={35},
+  number={9},
+  pages={8013--8020},
+  year={2021}
+}
+```
